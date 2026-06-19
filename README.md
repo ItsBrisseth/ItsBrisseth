@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Brisseth Parina 👋</h1>
+<h1 align="center">Hallo, Ich bin Brisseth Parina 👋</h1>
 
 <h3 align="center">
-🇵🇪 Industrial Engineering Student | 📊 Data Analytics Enthusiast | 🌍 International Acadmeic Experience
+🇵🇪 Industrial Engineering Student | 📊 Data Analytics Enthusiast | 🌍 International Academic Experience
 </h3>
 
 <p align="center">
