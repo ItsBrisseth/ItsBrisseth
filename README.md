@@ -1,179 +1,179 @@
-<h1 align="center">Hallo, Ich bin Brisseth Parina 👋</h1>
+# 👋 Hi, I'm Brisseth Parina
 
-<h3 align="center">
-🇵🇪 Industrial Engineering Student | 📊 Data Analytics Enthusiast | 🌍 International Academic Experience
-</h3>
+### Data Engineering for People Analytics | HR Data & Workforce Intelligence
 
 <p align="center">
-Transforming data into decisions and opportunities into impact.
+Building data pipelines that transform workforce data into strategic decisions.
 </p>
 
 ---
 
-## 🌎 About Me
+## 🚀 About Me
 
-I am an Industrial & Commercial Engineering student from Peru passionate about data analytics, project management, process optimization, and international development.
+Industrial & Commercial Engineer passionate about Data Engineering, People Analytics, and Workforce Intelligence.
 
-My journey has allowed me to combine engineering, research, procurement, entrepreneurship training, and international education experiences, developing a multidisciplinary perspective and a strong commitment to creating meaningful impact through data-driven solutions.
+My professional experience combines:
 
-### Current Interests
+- 👥 People Analytics
+- ⚙️ Data Engineering
+- 📊 Business Intelligence
+- ☁️ Cloud Foundations
+- 🤖 Process Automation
 
-📊 Data Analytics & Business Intelligence
-
-📈 Data Visualization & KPI Design
-
-🏗️ Project Management Offices (PMO)
-
-⚙️ Process Improvement
-
-🤖 AI & Human Interaction
-
-🌍 International Development
+I enjoy transforming HR data into scalable analytics solutions that support strategic decision-making.
 
 ---
 
-## 🎓 Education
+## 🛠 Tech Stack
 
-### Universidad ESAN 🇵🇪
-Industrial & Commercial Engineering
+### Data Engineering
 
-### MCI | Management Center Innsbruck 🇦🇹
-Exchange Semester through the Ernst Mach Grant
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Relevant Areas:
-- Data Science
-- Project Management
-- Business Analytics
-- Industrial Engineering
-- Digital Transformation
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+![ETL](https://img.shields.io/badge/ETL_Pipelines-005571?style=for-the-badge)
 
-## 💼 Experience
+![Data_Quality](https://img.shields.io/badge/Data_Quality-00897B?style=for-the-badge)
 
-### Purchasing Intern
-Supporting procurement processes, spend analysis, supplier coordination, and operational efficiency initiatives.
-
-### International Relations Support
-Coordinating activities for international students, exchange programs, and global mobility initiatives.
-
-### Content Creation & International Promotion
-Creating strategic content to promote higher education opportunities and student mobility experiences.
-
-### Entrepreneurship Advisor & Trainer
-Training women entrepreneurs in digital marketing and business sustainability.
+![Data_Governance](https://img.shields.io/badge/Data_Governance-3949AB?style=for-the-badge)
 
 ---
-
-## 🔬 Research Interests
-
-- PMO Maturity Models
-- Data-Driven Decision Making
-- Project Governance
-- Sustainability & Circular Economy
-- Artificial Intelligence in Everyday Life
-- Process Optimization
-
----
-
-## 🛠️ Skills
 
 ### Analytics
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Professional
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-- Data Analysis
-- KPI Development
-- Dashboard Design
-- Procurement
-- Project Management
-- Process Improvement
-- Stakeholder Management
-
-### Languages
-
-🇪🇸 Spanish (Native)
-
-🇬🇧 English (Professional)
-
-🇩🇪 German (Basic)
+![People Analytics](https://img.shields.io/badge/People_Analytics-FF6F00?style=for-the-badge)
 
 ---
 
-## 🌍 International Experience
+### Enterprise Systems
 
-🇦🇹 Austria
+![SAP HCM](https://img.shields.io/badge/SAP_HCM-0FAAFF?style=for-the-badge)
 
-Exchange semester at MCI | Management Center Innsbruck through the Ernst Mach Scholarship Program.
-
-Focus areas:
-- Cross-cultural collaboration
-- International project work
-- Data-driven problem solving
-- Global business perspectives
+![SAP Business One](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=for-the-badge)
 
 ---
 
-## 🏆 Highlights
+### Cloud
 
-✨ Ernst Mach Grant Recipient
-
-✨ International Education Ambassador
-
-✨ PMO Research Contributor
-
-✨ STEM Woman Promoting Educational Opportunities
-
-✨ Experience in Procurement, Analytics & International Programs
+![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 📈 Professional Journey
+## 👥 People Analytics Pipeline
 
-```text
-Peru 🇵🇪
-│
-├── Industrial & Commercial Engineering
-│
-├── International Relations & Student Mobility
-│
-├── Entrepreneurship Training
-│
-├── Purchasing & Procurement Analytics
-│
-└── Exchange Semester in Austria 🇦🇹
-      ├── Data Science
-      ├── Project Management
-      ├── Business Analytics
-      └── International Collaboration
+```mermaid
+flowchart LR
+
+A[HRIS / SAP HCM] --> B[ETL Pipeline]
+
+B --> C[Data Validation]
+
+C --> D[HR Data Warehouse]
+
+D --> E[Power BI Dashboards]
+
+E --> F[Workforce Insights]
+
+F --> G[Strategic HR Decisions]
 ```
+
+---
+
+## 💻 My Profile in Python
+
+```python
+from dataclasses import dataclass
+
+@dataclass
+class DataProfessional:
+
+    name = "Brisseth Parina"
+
+    focus = [
+        "Data Engineering",
+        "People Analytics",
+        "Workforce Intelligence"
+    ]
+
+    skills = [
+        "Python",
+        "SQL",
+        "Power BI",
+        "SAP",
+        "ETL"
+    ]
+
+    mission = "Transform workforce data into business value"
+
+print(DataProfessional())
+```
+
+---
+
+## 📂 Featured Projects
+
+### HR Analytics Dashboard
+
+- Workforce KPIs
+- Turnover Analysis
+- Absenteeism Monitoring
+- Headcount Tracking
+
+### ETL for HR Reporting
+
+- Data Extraction
+- Transformation
+- Validation
+- Automated Reporting
+
+### Workforce Intelligence
+
+- HR Data Governance
+- Data Quality Controls
+- Executive Dashboards
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
 ## 🌱 Currently Learning
 
+- Data Warehousing
+- Data Modeling
+- Cloud Data Engineering
 - Advanced SQL
-- Power BI Dashboard Design
-- Data Storytelling
-- PMO Governance Frameworks
-- AI Applications for Business
+- Python for Data Pipelines
+- HR Analytics Automation
 
 ---
 
-## 📫 Connect With Me
+## 🌍 International Experience
 
-💼 LinkedIn: www.linkedin.com/in/brissethparina
+🇵🇪 Peru
 
-📧 Email: your.email@example.com
+🇦🇹 Exchange Semester at MCI – Austria
 
-🌎 Lima, Peru
+Recipient of the Ernst Mach Grant
 
 ---
 
-### ⭐ Fun Fact
+## 📫 Let's Connect
 
-Outside of engineering and data analytics, I'm a huge Marvel fan and enjoy finding project management lessons in superhero teams. Turns out even the Avengers need stakeholder management.
+LinkedIn: linkedin.com/in/brisseth
+
+Email: brisseth.parina@gmail.com
+
+---
+
+### “Good People Analytics starts with good Data Engineering.”
