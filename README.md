@@ -1,161 +1,84 @@
+<div align="center">
+
 # 👋 Hi, I'm Brisseth Parina
 
-### Data Engineering for People Analytics | HR Data & Workforce Intelligence
+#### Building data pipelines that transform workforce data into strategic decisions.
 
-<p align="center">
-Building data pipelines that transform workforce data into strategic decisions.
-</p>
+</div>
 
----
+## About Me
 
-## 🚀 About Me
+I'm an Industrial & Commercial Engineer passionate about Data Engineering and People Analytics.
+What draws me to People Analytics is the opportunity to use data not only to improve business outcomes, but also to better understand how organizations can support people's growth, development, and opportunities.
+Currently pursuing a Data Engineering Specialization at Universidad Ricardo Palma in Peru (online), I am focused on building reliable data pipelines and analytical solutions that transform workforce data into meaningful insights and strategic decisions.
 
-Industrial & Commercial Engineer passionate about Data Engineering, People Analytics, and Workforce Intelligence.
+## Current focus:
 
-My professional experience combines:
+👥 People Analytics - ⚙️ Data Engineering - 📊 Workforce Intelligence - ☁️ Cloud Data Solutions - 🤖 Process Automation
 
-- 👥 People Analytics
-- ⚙️ Data Engineering
-- 📊 Business Intelligence
-- ☁️ Cloud Foundations
-- 🤖 Process Automation
 
-I enjoy transforming HR data into scalable analytics solutions that support strategic decision-making.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-### Data Engineering
+### 🛠️ Tech Stack
 
+</div>
+
+<div align="center">
+    
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![ETL](https://img.shields.io/badge/ETL_Pipelines-005571?style=for-the-badge)
-
-![Data_Quality](https://img.shields.io/badge/Data_Quality-00897B?style=for-the-badge)
-
-![Data_Governance](https://img.shields.io/badge/Data_Governance-3949AB?style=for-the-badge)
-
----
-
-### Analytics
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
+</div>
+<div align="center">
+    
+![SAP Business One](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-005571?style=for-the-badge)
 ![People Analytics](https://img.shields.io/badge/People_Analytics-FF6F00?style=for-the-badge)
 
----
-
-### Enterprise Systems
-
-![SAP HCM](https://img.shields.io/badge/SAP_HCM-0FAAFF?style=for-the-badge)
-
-![SAP Business One](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=for-the-badge)
+</div>
 
 ---
 
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## 👥 People Analytics Pipeline
+## 👥 People Analytics Data Pipeline
 
 ```mermaid
 flowchart LR
 
-A[HRIS / SAP HCM] --> B[ETL Pipeline]
+A[SAP HCM / HRIS] --> B[ETL Pipeline]
 
-B --> C[Data Validation]
+B --> C[Data Quality Validation]
 
 C --> D[HR Data Warehouse]
 
 D --> E[Power BI Dashboards]
 
-E --> F[Workforce Insights]
+E --> F[Workforce Analytics]
 
 F --> G[Strategic HR Decisions]
 ```
 
 ---
 
-## 💻 My Profile in Python
+## 📊 Core Competencies
+<div align="center">
 
-```python
-from dataclasses import dataclass
-
-@dataclass
-class DataProfessional:
-
-    name = "Brisseth Parina"
-
-    focus = [
-        "Data Engineering",
-        "People Analytics",
-        "Workforce Intelligence"
-    ]
-
-    skills = [
-        "Python",
-        "SQL",
-        "Power BI",
-        "SAP",
-        "ETL"
-    ]
-
-    mission = "Transform workforce data into business value"
-
-print(DataProfessional())
-```
-
----
-
-## 📂 Featured Projects
-
-### HR Analytics Dashboard
-
-- Workforce KPIs
-- Turnover Analysis
-- Absenteeism Monitoring
-- Headcount Tracking
-
-### ETL for HR Reporting
-
-- Data Extraction
-- Transformation
-- Validation
-- Automated Reporting
-
-### Workforce Intelligence
-
-- HR Data Governance
-- Data Quality Controls
-- Executive Dashboards
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🌱 Currently Learning
-
-- Data Warehousing
-- Data Modeling
-- Cloud Data Engineering
-- Advanced SQL
-- Python for Data Pipelines
-- HR Analytics Automation
-
+| Data Engineering | People Analytics | Business Intelligence |
+|------------------|------------------|------------------------|
+| ETL / ELT | Headcount Analytics | Power BI |
+| Data Quality | Turnover Analysis | KPI Design |
+| Data Modeling | Absenteeism Analytics | Dashboard Development |
+| SQL | Workforce Metrics | Executive Reporting |
+| Python | Compensation Analytics | Data Storytelling |
+</div>
 ---
 
 ## 🌍 International Experience
@@ -164,16 +87,37 @@ print(DataProfessional())
 
 🇦🇹 Exchange Semester at MCI – Austria
 
-Recipient of the Ernst Mach Grant
+🎓 Ernst Mach Grant Recipient
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Analytics
 
-LinkedIn: linkedin.com/in/brisseth
+<div align="center">
 
-Email: brisseth.parina@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+</div>
 
 ---
 
-### “Good People Analytics starts with good Data Engineering.”
+## 🌱 Currently Learning
+
+- Data Warehousing
+- Advanced SQL
+- Data Modeling
+- AWS Data Services
+- HR Analytics Automation
+- Machine Learning for Workforce Analytics
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: linkedin.com/in/brisseth
+
+📧 Email: brisseth.parina@gmail.com
+
+</div>
