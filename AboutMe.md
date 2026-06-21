@@ -90,27 +90,17 @@ F --> G[Strategic HR Decisions]
 🎓 Ernst Mach Grant Recipient
 
 ---
+## 🚀 Featured Project
 
-## 📈 GitHub Analytics
+### 👥 People Analytics & Data Engineering
 
-<div align="center">
+Building workforce insights through Oracle SQL, BigQuery and HR Analytics.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+📄 [Project Report](https://drive.google.com/file/d/1UeDM66e_WreIDrm2Q8yNF24nFIbUkixZ/view?usp=drive_link)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+🔗 [Repository]
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-- Data Warehousing
-- Advanced SQL
-- Data Modeling
-- AWS Data Services
-- HR Analytics Automation
-- Machine Learning for Workforce Analytics
 
 ---
 
